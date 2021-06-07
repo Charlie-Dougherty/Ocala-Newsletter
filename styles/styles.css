@@ -32,7 +32,7 @@ desktop-hidden {
 
 p.date{
   border-bottom: 10px solid black;
-  width: 95%
+  width: 95%;
   margin: 0 auto;
   padding-bottom: 1em;
   font-size: 1.5em;
@@ -41,8 +41,8 @@ p.date{
 
 }
 
-.top-story img,
-.top-story p {
+.main-article img,
+.main-article p {
   width:80%;
   margin: 0 auto;
 }
@@ -50,14 +50,14 @@ p.date{
   font-family: Lucia Grande;
 }
 
-.story {
+.article {
   border: 1px solid black;
   background-color: #D8D8D8;
   margin: 0 3em 1.5em 3em;
   padding: 1em;
 }
 
-.story h3 {
+.article h3 {
   margin: 0;
 }
 
@@ -98,7 +98,7 @@ h3 {
     font-weight: bold;
   }
 
-  .top-story {
+  .main-article {
     margin: 1em 0;
   }
 }
